@@ -1,1 +1,7 @@
--- NO README UNTIL FALL
+# DIVINE
+
+## NOUNS / RESOURCES
+
+-   **User**
+-   **Talks**
+-   **Conferences**
